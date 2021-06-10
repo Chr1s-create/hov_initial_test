@@ -8,7 +8,7 @@ In the project directory, you can run:
 
 ### How to use the app
 1. Clone the repo to your local computer.
-2. Install dependencies by typing `npm i or npm install` to your terminal.
+2. Install dependencies by typing `npm install` to your terminal.
 3. Run the app in development mode using `npm start`.
 4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
